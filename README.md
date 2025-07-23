@@ -1,16 +1,35 @@
-# lesson_planner_app
+# 📘 Lesson Planner App
 
-A new Flutter project.
+A modern and user-friendly Flutter app to help teachers and educators plan and manage their lessons efficiently.
 
-## Getting Started
+![Logo](assets/logo.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 **Phone Number & OTP Login**
+- 🧑‍🏫 **User-specific data** – each user sees only their added lessons
+- 📝 **Add, Edit & View Lesson Plans**
+- 📅 **Filter lessons by class name and date**
+- 🔍 **Search functionality**
+- 🧩 **Custom sections with editable bullet points**
+- 🧾 **Save lesson details to Firebase Firestore**
+- 📤 **Export or Share lessons as PDF (printing support)**
+- 🎨 Clean and responsive UI using blue and white theme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔧 Tech Stack
+
+- **Flutter** (Frontend)
+- **Firebase Auth** – Phone-based authentication
+- **Cloud Firestore** – For storing lesson plans
+- **Firebase Core**
+- **PDF & Printing** packages
+
+---
+
+## 🖼️ Screenshots
+
+
