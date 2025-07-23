@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344454479498",
+    "project_id": "quick-learning-classroom",
+    "storage_bucket": "quick-learning-classroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344454479498:android:7c56e3b88dcbac025ff773",
+        "android_client_info": {
+          "package_name": "com.example.lesson_planner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRox7TR7hq4nADo0ryUPjk_VjtkGeiYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
