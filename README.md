@@ -32,4 +32,10 @@ A modern and user-friendly Flutter app to help teachers and educators plan and m
 
 ## 🖼️ Screenshots
 
+### 🔑 Login Screen
+![Login Screen](assets/PhoneNo.jpg)
+
+
+
+
 
